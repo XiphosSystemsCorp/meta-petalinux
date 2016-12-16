@@ -1,3 +1,10 @@
+Xiphos
+=======
+
+This repository is a fork of the Xilinx meta-petalinx layer that can be found at:
+	https://github.com/Xilinx/meta-petalinux
+
+
 meta-petalinux
 ==============
 
